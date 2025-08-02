@@ -35,7 +35,7 @@ It allows users to search for a city and get current weather details, including 
 
 Below is a screenshot of the Weather App showcasing its interface:
 
-![Weather App Screenshot](./public/projekt.jpg)
+![Weather App Screenshot](./public/projekt-picture.jpg)
 
 ---
 
